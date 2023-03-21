@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "CbYjrgOgljubE5yK19oPNNB9u0V8A4tnwuyJrgb6L08=",
+  "Source": "JwtTest",
+  "BasePath": "_content/JwtTest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "JwtTest\\wwwroot",
+      "Source": "JwtTest",
+      "ContentRoot": "C:\\Users\\HP-PC\\source\\repos\\JwtTest\\JwtTest\\wwwroot\\",
+      "BasePath": "_content/JwtTest",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
